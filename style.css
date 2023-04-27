@@ -1,0 +1,37 @@
+.banner{
+  background-image: url(https://images.unsplash.com/photo-1629324176064-aeb004a75b80?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80);
+  background-size: cover;
+  color: white;
+  padding: 120px 0;
+}
+
+.top-title{
+  font-size: 40px;
+}
+
+.top-paragraph{
+  font-size: 20px;
+}
+
+.container{
+  width: 700px;
+  margin: 50px auto;
+}
+
+body{
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+p{
+  color:grey;
+}
+
+a{
+  text-decoration: none;
+  cursor: pointer;
+}
+
+a:hover{
+  background-color:black;
+  color:white;
+}
